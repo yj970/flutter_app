@@ -1,16 +1,16 @@
-# flutter_app
+#学习Flutter
 
-A new Flutter application.
+#APP内容包括：
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+    1. 列表
+    2. 网格
+    3. 自由放置各种widget（绘制界面）
+    4. 碎片（实现Fragment）
+    5. 下拉刷新
+    6. 路由跳转
+    7. 用户交互
+    8. 数据请求->数据刷新
+    9. 手势滑动（实现viewPager）
+    10. eventbus
+    11. sharedpreferences
+    12. json转实体、实体转json
